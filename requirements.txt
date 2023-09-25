@@ -1,0 +1,15 @@
+certifi==2023.5.7
+charset-normalizer==3.2.0
+dnspython==2.3.0
+idna==3.4
+mysql-connector-python==8.0.33
+okapi==0.12.0
+protobuf==3.20.3
+pymongo==4.4.1
+PyMySQL==1.1.0
+pyTelegramBotAPI==4.12.0
+requests==2.31.0
+telebot==0.0.5
+urllib3==2.0.3
+vk==3.0
+vk-api==11.9.9

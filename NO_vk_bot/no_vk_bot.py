@@ -3,7 +3,6 @@ from vk_api.bot_longpoll import VkBotLongPoll, VkBotEventType
 import vk_tools
 import db
 import time
-import vk
 
 UPSKILLS_TOKEN = 'vk1.a.S4Q1L6UHrlY4EhqtdfGsukOXrux9LrdaSuHH03_cjhiuyA0wzJPFUkgyZtEpSc_etAKKfW-4T35HHPAwMcb-vq-P_Lz4kHgECDQQLmRgCZqsvKo6mRQvhHc7urvnpu2RcAnHm9lTHoOn-HCi2BESqIVYehxhmOB3_6Lb_vonGQOmSNIuxEUn_tP6vCED_o0fUFV1F3m3tsDxLKXncA1MMQ'
 GROUP_ID = '221561257'
